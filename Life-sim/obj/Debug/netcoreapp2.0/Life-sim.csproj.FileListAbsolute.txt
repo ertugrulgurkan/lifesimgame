@@ -1,0 +1,11 @@
+C:\Users\ertug\source\repos\Life-sim\Life-sim\obj\Debug\netcoreapp2.0\Life-sim.csprojAssemblyReference.cache
+C:\Users\ertug\source\repos\Life-sim\Life-sim\obj\Debug\netcoreapp2.0\Life-sim.csproj.CoreCompileInputs.cache
+C:\Users\ertug\source\repos\Life-sim\Life-sim\obj\Debug\netcoreapp2.0\Life-sim.AssemblyInfoInputs.cache
+C:\Users\ertug\source\repos\Life-sim\Life-sim\obj\Debug\netcoreapp2.0\Life-sim.AssemblyInfo.cs
+C:\Users\ertug\source\repos\Life-sim\Life-sim\bin\Debug\netcoreapp2.0\Life-sim.deps.json
+C:\Users\ertug\source\repos\Life-sim\Life-sim\bin\Debug\netcoreapp2.0\Life-sim.runtimeconfig.json
+C:\Users\ertug\source\repos\Life-sim\Life-sim\bin\Debug\netcoreapp2.0\Life-sim.runtimeconfig.dev.json
+C:\Users\ertug\source\repos\Life-sim\Life-sim\bin\Debug\netcoreapp2.0\Life-sim.dll
+C:\Users\ertug\source\repos\Life-sim\Life-sim\bin\Debug\netcoreapp2.0\Life-sim.pdb
+C:\Users\ertug\source\repos\Life-sim\Life-sim\obj\Debug\netcoreapp2.0\Life-sim.dll
+C:\Users\ertug\source\repos\Life-sim\Life-sim\obj\Debug\netcoreapp2.0\Life-sim.pdb
